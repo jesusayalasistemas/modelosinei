@@ -1,0 +1,2 @@
+el virtual env se llama 
+(django_rest)
